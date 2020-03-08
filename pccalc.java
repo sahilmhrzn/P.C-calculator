@@ -123,7 +123,7 @@ try{
     }
   }*/
 
-
+//main method
   public static void main(String[] args)
     {
         Pccalc obj= new Pccalc();
